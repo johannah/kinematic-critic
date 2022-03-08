@@ -2,4 +2,4 @@
 
 
 
-[![Pitch](https://youtu.be/9sShOuqNgAc)
+[![Pitch](https://youtu.be/9sShOuqNgAc/maxresdefault.jpg)

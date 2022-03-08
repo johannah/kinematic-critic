@@ -4,4 +4,4 @@ This paper introduces a pixel-based actor-critic architecture featuring a differ
 
 Johanna Hansen, Kyle Kastner, Yuying Huang, Aaron Courville, Dave Meger, and Gregory Dudek
 
-[![Pitch](https://img.youtube.com/vi/9sShOuqNgAc/hqdefault.jpg)](https://youtu.be/9sShOuqNgAc)
+[![Pitch](https://img.youtube.com/vi/w4YruKjelC8/hqdefault.jpg)](https://youtu.be/w4YruKjelC8)
